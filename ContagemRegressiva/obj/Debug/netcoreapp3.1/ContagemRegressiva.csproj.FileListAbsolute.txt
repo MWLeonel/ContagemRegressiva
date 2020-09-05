@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.exe
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.deps.json
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.dll
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\bin\Debug\netcoreapp3.1\ContagemRegressiva.pdb
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.dll
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.pdb
+C:\Users\Max Leonel\Desktop\ContagemRegressiva\ContagemRegressiva\obj\Debug\netcoreapp3.1\ContagemRegressiva.genruntimeconfig.cache
